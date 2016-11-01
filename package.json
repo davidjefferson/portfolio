@@ -33,5 +33,6 @@
     "load-grunt-tasks": "^0.4.0",
     "time-grunt": "^0.4.0",
     "assemble": "~0.4.42"
-  }
+  },
+  "postinstall": "bower install"
 }

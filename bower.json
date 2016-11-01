@@ -1,0 +1,17 @@
+{
+  "name": "portfolio",
+  "description": "Informações profissionais",
+  "main": "index.js",
+  "authors": [
+    "David Jefferson"
+  ],
+  "license": "BSD-2-Clause",
+  "homepage": "https://github.com/davidjefferson/portfolio",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
